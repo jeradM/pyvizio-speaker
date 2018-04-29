@@ -1,5 +1,4 @@
 import aiohttp
-import asyncio
 from aiohttp import TCPConnector
 
 from .api_command import Command, InputListCommand, \
